@@ -1,12 +1,12 @@
-Bug Report – Red Dead Redemption 2 
+**Bug Report – Red Dead Redemption 2 **
 
-Bug Title 
+**Bug Title **
 
 Horse Becomes Unresponsive After Fast Travel to Camp 
 
  
 
-Game 
+**Game **
 
 Red Dead Redemption 2 
 
@@ -30,15 +30,15 @@ Gameplay / Player Control / AI (Horse)
 
  
 
-Severity 
+**Severity **
 
 Major – Temporarily blocks player progression and movement 
 
-Priority 
+**Priority **
 
 Medium 
 
-Preconditions 
+**Preconditions **
 
 Player owns a bonded horse 
 
@@ -48,7 +48,7 @@ Fast travel option is available
 
  
 
-Steps to Reproduce 
+**Steps to Reproduce **
 
 Launch Red Dead Redemption 2 in Story Mode 
 
@@ -59,14 +59,14 @@ Approach the player’s primary horse
 Attempt to mount the horse or issue movement commands 
 
  
-
-Expected Result 
+**
+Expected Result **
 
 Player should be able to mount the horse 
 
 Horse should respond to movement and control inputs normally 
-
-Actual Result 
+**
+Actual Result **
 
 Horse allows mounting but does not respond to movement inputs 
 
@@ -78,7 +78,7 @@ Frequency
 
 Intermittent (Observed ~2 out of 5 fast travel attempts) 
 
-Temporary Workaround 
+**Temporary Workaround **
 
 Whistle to dismiss the horse and wait for it to respawn 
 
